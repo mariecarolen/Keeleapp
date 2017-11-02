@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Keeleapp</string>
+    <string name="animal_name_frog">Konn</string>
+    <string name="animal_name_cat">Kass</string>
+    <string name="animal_name_snake">Uss</string>
+    <string name="title">Title</string>
+</resources>
